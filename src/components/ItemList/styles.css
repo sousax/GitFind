@@ -1,0 +1,17 @@
+.repo-content {
+  margin: 24px 0;
+}
+
+.repo-content strong {
+  font-family: "Roboto", sans-serif;
+  color: #539bf5;
+  font-size: 24px;
+  margin: 24px 0;
+}
+
+.repo-content p {
+  font-family: "Roboto", sans-serif;
+  color: #999999;
+  font-size: 14px;
+  margin: 24px 0;
+}
